@@ -39,3 +39,7 @@ To create a comprehensive dashboard that allows stakeholders to easily understan
 * `README.md`: This file.
 * `Hospitality-Analytics.pbix`: (You need to add this file) The Power BI Desktop file containing the dashboard.
 * `hotel_bookings/`: Directory containing anonymized or sample data used for the dashboard.
+
+
+![Dashboard](snapshot.png)  
+
