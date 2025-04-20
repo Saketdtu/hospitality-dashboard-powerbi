@@ -13,7 +13,7 @@ To create a comprehensive dashboard that allows stakeholders to easily understan
 * **Profit Margin:** Percentage of revenue that translates into profit.
 * **Regional Performance:** Analysis of revenue, profit, and other metrics across different geographical areas.
 * **Sales Trends:** Tracking sales performance over time (e.g., monthly, quarterly).
-* **Average Daily Rate (ADR), Occupancy Rate, Revenue Per Available Room (RevPAR), Customer Satisfaction Scores, Booking Channels, etc.)
+* **Average Daily Rate (ADR), Revenue Per Available Room (RevPAR), Booking Channels.**
 
 ## Tools Used
 
@@ -23,7 +23,7 @@ To create a comprehensive dashboard that allows stakeholders to easily understan
 
 ## Dashboard Features
 
-* **Interactive Visualizations:** Charts, graphs, maps, and slicers allowing users to filter and explore data dynamically.
+* **Interactive Visualizations:** Charts, graphs, and slicers allowing users to filter and explore data dynamically.
 * **Data Modeling:** Relationships defined between different data tables (e.g., bookings, customer details, location data) to enable integrated analysis.
 * **Key Performance Indicators (KPIs):** Clear display of critical metrics.
 * **Actionable Insights:** Visual reports designed to highlight trends, outliers, and areas for improvement.
