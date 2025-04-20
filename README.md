@@ -41,5 +41,5 @@ To create a comprehensive dashboard that allows stakeholders to easily understan
 * `hotel_bookings/`: Directory containing anonymized or sample data used for the dashboard.
 
 
-![Dashboard](Snapshot.png)  
+![Dashboard](Hospitality-Analytics screenshot.png)  
 
